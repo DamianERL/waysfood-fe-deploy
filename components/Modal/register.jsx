@@ -83,7 +83,7 @@ export default function Register() {
             </select>
           </div>
           <Button style="h-10 mt-5  bg-fontPrimary hover:bg-fontPrimary/90">
-            login
+            Register
           </Button>
         </form>
       </div>

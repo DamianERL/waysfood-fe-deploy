@@ -105,7 +105,7 @@ export default function Header() {
                       <p className="my-2 font-extrabold font_a">
                         {item?.product[0]?.Name}
                       </p>
-                      <p className="font_a font-normal">12k</p>
+                      <p className="font_a font-normal"></p>
                     </div>
                   ))}
                 </div>
